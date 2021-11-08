@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/IzabellaPavlova/CPP_homework_2.svg?branch=hw-2)](https://app.travis-ci.com/github/IzabellaPavlova/CPP_homework_2)
+
 ## ИЗ - 2
 
 ### Вариант №10
